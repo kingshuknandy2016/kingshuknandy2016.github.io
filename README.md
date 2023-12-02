@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kingshuk</h1>
 <h3 align="center">A passionate Full Stack Developer and a DevOps Engineer from India</h3>
 
+| Domain            | Skills Tools        | Projects                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages**    | - JavaScript , NodeJS<br>- Java<br>                                     | - NodeJS Full-Stack Web Development Projects<br>- [Solved 28+ Leetcode Problems](https://leetcode.com/iamtejas/)<br>                                        |
+| **FrontEnd Framework**                  | - React ,Typescript   | - [React Starter Project](https://github.com/kingshuknandy2016/reactjs-starter-project)<br>                           |
+| **Backend Framework**            | - Express.js,TypeScript,PostgreSQL,Swagger<br>  - Express.js,TypeScript,PostgreSQL, ApolloGraphQL | - [Express Microservice Template](https://github.com/kingshuknandy2016/microservice-nodejs-starter)<br> - [Express Microservice Template With GraphQL](https://github.com/kingshuknandy2016/microservice-nodejs-graphql-starter)                                                                                                                                                                                              |
+| **Cloud**                    | - AWS                                                                               | - [AWS Serverless CRUD APIs of E-Commerce Product Microservices](https://github.com/kingshuknandy2016/aws-serverless-crud-api-microservice)  |
+| **CI/CD**                    | - Jenkins<br> | - Jenkins                                                                                        |
+| **Containerization**        | - Docker                                                                            | - Docker                                                                                                      |
+| **Container Management**        | - Kubernetes                                                                            | - Kubernetes                                                                                                      |
+| **Infrastructure as Code**   | - Terraform                                                                         | - Terraform |
+| **SCM**                      | - GitHub<br> - Gitlab<br> - CodeCommit                                                        |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                        |
+| **Databases**                | - PostgreSQL, DynamoDB, RDS                                                            | |
+|                              |
+
 - 🔭 I’m currently working on [Deploying a backend application in ECS](https://github.com/kingshuknandy2016/microservice-nodejs-starter)
 
 - 💬 Ask me about **ReactJS, ExpressJS, Sequelize, ORM , Docker , Kubernetes, Terraform , AWS**
