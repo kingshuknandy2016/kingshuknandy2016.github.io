@@ -13,7 +13,7 @@
 | **Infrastructure as Code**   | - Terraform                                                                         | - Terraform |
 | **SCM**                      | - GitHub<br> - Gitlab<br> - CodeCommit                                                        |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                        |
 | **Databases**                | - PostgreSQL, DynamoDB, RDS                                                            | |
-|                              |
+
 
 - 🔭 I’m currently working on [Deploying a backend application in ECS](https://github.com/kingshuknandy2016/microservice-nodejs-starter)
 
