@@ -18,7 +18,7 @@
 I am a Full Stack Developer and DevOps Engineer from India 🇮🇳
 
 - 🔭 Currently working on [Deploying a backend application in ECS](https://github.com/kingshuknandy2016/microservice-nodejs-starter)
-- 💡 Expertise in **ReactJS, ExpressJS, Sequelize, ORM, Docker, Kubernetes, Terraform, AWS**
+- 💡 Expertise in **ReactJS, ExpressJS,NestJS, Sequelize, TypeORM, Docker, Kubernetes, Terraform, AWS**
 - 📫 Reach me at: **kingshuknandy2021@gmail.com**
 
 ---
@@ -26,9 +26,10 @@ I am a Full Stack Developer and DevOps Engineer from India 🇮🇳
 
 | Domain            | Skills Tools        | Projects                                                                                                                                                                                                                                                                                                                                                                 |
 | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming Languages**    | - JavaScript , NodeJS<br>- Java<br>                                     | - NodeJS Full-Stack Web Development Projects<br>- [Solved 28+ Leetcode Problems](https://leetcode.com/iamtejas/)<br>                                        |
+| **Programming Languages**    | - JavaScript , NodeJS<br>- Java<br>                                     | - NodeJS Full-Stack Web Development Projects<br>- [Solved 28+ Leetcode Problems](https://leetcode.com/u/kingshuknandy2018/)<br>                                        |
 | **FrontEnd Framework**                  | - React ,Typescript   | - [React Starter Project](https://github.com/kingshuknandy2016/reactjs-starter-project)<br>                           |
 | **Backend Framework**            | - Express.js, TypeScript, API, Swagger<br>  - Express.js, TypeScript, ApolloGraphQL | - [Express Microservice Template](https://github.com/kingshuknandy2016/microservice-nodejs-starter)<br> - [Express Microservice Template With GraphQL](https://github.com/kingshuknandy2016/microservice-nodejs-graphql-starter)                                                                                                                                                                                              |
+| **Artificial Inteligence**   | - AI Agents, ChatGPT OpenAI                                                          | - [Multi Agent Travel Iternary Generation System](https://github.com/kingshuknandy2016/multi-agent-travel-iternary-generation-system)   |
 | **Cloud**                    | - AWS                                                                               | - [AWS Serverless CRUD APIs of E-Commerce Product Microservices](https://github.com/kingshuknandy2016/aws-serverless-crud-api-microservice)  |
 | **Database**                    | - PostgreSQL                                                                              | - [Nodejs Project with PostgreSQL Setup](https://github.com/kingshuknandy2016/node-typescript-postgresql)  |
 | **Automation**            | - Mobile Automation<br>  | - [Mobile Automation using Appium ](https://github.com/kingshuknandy2016/mobile-automation-appium/tree/master)<br> - [Parallel Execution in Different Mobile Devices](https://github.com/kingshuknandy2016/mobile-automation-parallel-execution-java)                                                                                                                                                                                              |
@@ -39,7 +40,6 @@ I am a Full Stack Developer and DevOps Engineer from India 🇮🇳
 | **Infrastructure as Code**   | - Terraform                                                                         | - Terraform |
 | **SCM**                      | - GitHub<br> - Gitlab<br> - CodeCommit                                                        |                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                        |
 | **Databases**                | - PostgreSQL, DynamoDB, RDS                                                            | |
-
 
 ---
 
